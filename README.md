@@ -29,3 +29,7 @@ Futher steps to be done:
   - Use robust Machine Learning models like Random Forest, SVM, XgBoot to classify the text
   
   - Use deep learning models like ANN to aim for 90-95% accuracy
+
+## Edit
+
+The new solution in *solutin2.py* is an extended work by using the function from [SivaAndMe](https://github.com/SivaAndMe/Sentiment-Analysis-on-Swachh-Bharat-using-Twitter/blob/master/swn_sentiment_labeling.py). Note that the results after running the new solution are not very great and depreciated from the previous results.
